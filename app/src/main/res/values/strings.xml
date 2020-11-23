@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Roma Guide</string>
+    <string name="hotel_sheraton_name">Sheraton Hotel</string>
+    <string name="hotel_sheraton_address">Viale del Pattinaggio, 100, 00144 Roma RM</string>
+    <string name="hotel_plaza_name">Grand Hotel Plaza</string>
+    <string name="hotel_plaza_address">Via del Corso, 126, 00186 Roma RM</string>
+    <string name="hotel_naiadi_name">Palazzo Naiadi Roma</string>
+    <string name="hotel_naiadi_address">Piazza della Repubblica, 47, 00185 Roma RM</string>
+    <string name="mall_euroma2_name">Euroma2</string>
+    <string name="mall_euroma2_address">Viale dell\'Oceano Pacifico, 83, 00144 Roma RM</string>
+    <string name="mall_granai_name">I Granai</string>
+    <string name="mall_granai_address">Via Mario Rigamonti, 100, 00142 Roma RM</string>
+    <string name="mall_cinecittà2_name">CinecittàDue</string>
+    <string name="mall_cinecittà2_address">Viale Palmiro Togliatti, 2, 00173 Roma RM</string>
+    <string name="rest_girasole_name">Il Girasole</string>
+    <string name="rest_girasole_address">Via Rosa Raimondi Garibaldi, 26/28, 00145 Roma RM</string>
+    <string name="rest_tonnarello_name">Tonnarello</string>
+    <string name="rest_tonnarello_address"> Via della Paglia, 1, 00153 Roma RM</string>
+    <string name="rest_pergola_name">La Pergola</string>
+    <string name="rest_pergola_address">Via Alberto Cadlolo, 101, 00136 Roma RM</string>
+    <string name="school_spizzichino_name">Istituto Comprensivo Poggiali Spizzichino</string>
+    <string name="school_spizzichino_address">Via Aristide Leonori, 74, 00147 Roma RM</string>
+    <string name="school_primoLevi_name">Liceo Scientifico Statale Primo Levi</string>
+    <string name="school_primoLevi_address">Via Francesco Morandini, 64, 00142 Roma RM</string>
+    <string name="hotel">Hotel</string>
+    <string name="school">School</string>
+    <string name="mall">Mall</string>
+    <string name="restaurant">Restaurant</string>
+
+</resources>
